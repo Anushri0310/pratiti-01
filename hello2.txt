@@ -1,1 +1,3 @@
 Hello Anushree, we are learning how to use git....
+today is friday
+use git status frequently
